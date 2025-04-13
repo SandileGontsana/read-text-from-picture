@@ -22,4 +22,22 @@ A Streamlit-based app that extracts, analyzes, and displays key insights from va
 ---
 
 ## 📁 File Structure
+appU.py orginal file
+document_analysis_app.py was the inital start-up
+changed_app.py doesn't use steamline to read 
+
+## 🛠 Tech Stack
+Streamlit – UI Framework
+
+spaCy – NER and NLP
+
+Hugging Face Transformers – Advanced NER model
+
+pytesseract + PIL – OCR
+
+PDFPlumber – PDF text extraction
+
+pandas – Data manipulation
+
+python-docx – Word document parsing
 
