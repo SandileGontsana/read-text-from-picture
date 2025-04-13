@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+python-docx
+pandas
+pytesseract
+Pillow
+spacy
+transformers
+torch
+openpyxl
